@@ -5,6 +5,7 @@ export default function Document() {
     <Html lang='en'>
       <Head>
         <meta charSet="UTF-8" />
+        <link rel="canonical" href="https://portfolio-mickencz.vercel.app/" />
         <script defer src="https://kit.fontawesome.com/2f83740298.js" crossOrigin="anonymous"></script>
         <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet" /> 
         <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap" rel="stylesheet" />
