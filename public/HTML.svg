@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 512 470"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="HTML.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   width="512"
+   height="470"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.5898438"
+     inkscape:cx="256.94348"
+     inkscape:cy="206.62407"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <title
+     id="title2">HTML5 Logo</title>
+  <path
+     fill="#e44d26"
+     d="M 109.48698,398.03686 76.486977,27.636857 H 439.28698 l -33,370.200003 -148.7,41.2"
+     id="path6" />
+  <path
+     fill="#f16529"
+     d="M 257.88698,407.53686 V 58.036857 h 148.3 l -28.3,316.000003"
+     id="path8" />
+  <path
+     fill="#ebebeb"
+     d="m 143.88698,103.33686 h 114 v 45.4 h -64.2 l 4.2,46.5 h 60 v 45.3 h -101.6 m 2,22.8 h 45.6 l 3.2,36.3 50.8,13.6 v 47.4 l -93.2,-26"
+     id="path10" />
+  <path
+     fill="#ffffff"
+     d="m 371.48698,103.33686 h -113.8 v 45.4 h 109.6 m -4.1,46.5 h -105.5 v 45.4 h 56 l -5.3,59 -50.7,13.6 v 47.2 l 93,-25.8"
+     id="path12" />
+  <metadata
+     id="metadata237">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>HTML5 Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

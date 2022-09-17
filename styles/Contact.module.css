@@ -1,0 +1,59 @@
+#main {
+  background: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+  width: 100vw;
+  height: 100vh;
+}
+
+#contact {
+  padding-top:25vh;
+}
+
+#contact h1 {
+  color: white;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 0px;
+  padding-top: 100px;
+}
+#contact p {
+  color: white;
+  text-align: center;
+  font-weight: lighter;
+  font-size: 20px;
+}
+#contact a {
+  color: white;
+  text-decoration: none;
+  font-size: 23px;
+  padding-top: 50px;
+  margin-left: 20px;
+  margin-right: 20px;
+  transition: 1s;
+}
+#contact a:hover {
+  padding-top: 60px;
+  transition: 0.5s;
+}
+#links {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 200px;
+}
+
+@media only screen and (max-width:515px) {
+  #contact h1 {
+    font-size: 40px;
+  }
+  #contact p {
+    font-size: 15px;
+  }
+  #contact a {
+    font-size: 17px;
+  }
+}
+
+@media only screen and (max-height:515px) {
+  #contact {
+    padding-top: 15vh;
+  }
+}

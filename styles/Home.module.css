@@ -1,0 +1,19 @@
+#welcomeSection {
+  width: 100vw;
+  height: 100vh;
+  z-index: -100;
+}
+
+#welcomeSection h1 {
+  color: white;
+  text-align: center;
+  padding-top: 40vh;
+  font-size: 60px;
+}
+
+#welcomeSection h3 {
+  color: #ae5c69;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 200;
+}

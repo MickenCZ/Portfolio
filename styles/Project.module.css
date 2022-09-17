@@ -1,0 +1,43 @@
+.projectTile {
+  margin-left: 25px;
+  margin-right:25px;
+  padding-bottom: 30px;
+}
+
+.projectName {
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  text-align: center;
+  padding-bottom:10px;
+  padding-top:10px;
+  background-color: #576485;
+}
+
+.projectCard {
+  text-decoration: none;
+}
+
+.code {
+  opacity: 0;
+  font-size: 17.5px;
+  font-weight: bold;
+}
+
+.projectTile:hover .code {
+  color:darkorange;
+  transition: color 0.3s ease-out;
+  opacity: 1;
+  transition: opacity 0.3s ease-out;
+}
+
+.technologies {
+  color: white;
+  padding-bottom:10px;
+  padding-top:10px;
+  background-color: #576485;
+  margin-top:-7px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  font-weight: 400;
+}

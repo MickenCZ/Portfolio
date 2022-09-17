@@ -1,0 +1,26 @@
+#main {
+  background: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+  max-width: 100vw;
+  max-height: 1000vh;
+}
+
+#header {
+  color:white;
+  padding-top:100px;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  margin-bottom: 30px;
+}
+
+#projects {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+
+@media only screen and (max-width: 600px) {
+  #projects {
+    flex-direction: column;
+  }
+}
