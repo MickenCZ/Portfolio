@@ -36,13 +36,13 @@ export default function Work() {
         These are some of my projects
       </h1>
 <motion.div id={styles.projects} variants={fadeInRight} >
+    <Project title="Fighting game" stack="Canvas API, Animations, OOP" imgsrc="/Assassin.PNG" imgalt="Assassin fighting game" url="https://assassinfighter.netlify.app/" />
+    <Project title="Social Media App" stack="Next, MySQL, Authenthication" imgsrc="/Slipper.PNG" imgalt="Social Media app" url="https://slipperapp.vercel.app/" />  
     <Project title="Online store" stack="Next.js, Typescript, Redux Toolkit" imgsrc="/Store.PNG" imgalt="E-Store project" url="https://online-store-mickencz.vercel.app/" />
-    <Project title="School reminder tracker" stack="Next.js, MongoDB, SSR, Serverless" imgsrc="/Reminder.PNG" imgalt="reminder project" url="https://pripominac.netlify.app/"  />
-    <Project title="Javascript Calculator" stack="React, Hooks, ES6, Math" imgsrc="/Calculator.PNG" imgalt="Calculator project" url="https://codepen.io/MickenCZ/full/JjLQYKO" />
   </motion.div>
   <motion.div id={styles.projects} variants={fadeInRight} >
     <Project title="React To-Do App" stack="React, LocalStorage, ES6" imgsrc="/Todo.PNG" imgalt="Todo App" url="http://todoaplikace.wz.cz/" />
-    <Project title="25 + 5 Clock" stack="React, useRef, Audio, Time" imgsrc="/Clock.PNG" imgalt="25+5 Clock Project" url="https://codepen.io/MickenCZ/full/NWYZRPb" />
+    <Project title="School reminder tracker" stack="Next.js, MongoDB, SSR, Serverless" imgsrc="/Reminder.PNG" imgalt="reminder project" url="https://pripominac.netlify.app/"  />
     <Project stack="React, useRef, useCallback, Audio" title="Drum Machine" imgsrc="/Drum.PNG" imgalt="Drum machine project"  url="https://codepen.io/MickenCZ/full/MWVxpdw" />
   </motion.div>
     </motion.main>
