@@ -41,7 +41,7 @@ export default function Work() {
     <Project title="Online store" stack="Next.js, Typescript, Redux Toolkit" imgsrc="/Store.PNG" imgalt="E-Store project" url="https://online-store-mickencz.vercel.app/" />
   </motion.div>
   <motion.div id={styles.projects} variants={fadeInRight} >
-    <Project title="React To-Do App" stack="React, LocalStorage, ES6" imgsrc="/Todo.PNG" imgalt="Todo App" url="http://todoaplikace.wz.cz/" />
+    <Project title="React To-Do App" stack="React, LocalStorage, ES6" imgsrc="/Todo.PNG" imgalt="Todo App" url="https://todoaplikace.netlify.app/" />
     <Project title="School reminder tracker" stack="Next.js, MongoDB, SSR, Serverless" imgsrc="/Reminder.PNG" imgalt="reminder project" url="https://pripominac.netlify.app/"  />
     <Project stack="React, useRef, useCallback, Audio" title="Drum Machine" imgsrc="/Drum.PNG" imgalt="Drum machine project"  url="https://codepen.io/MickenCZ/full/MWVxpdw" />
   </motion.div>
