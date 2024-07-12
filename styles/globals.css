@@ -53,14 +53,14 @@ canvas {
   max-height: 100vh;
 }
 
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1400px) {
   #navbar a {
     left:20vw;
   }
 }
 
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 950px) {
   #navbar a {
     left:0vw;
     font-size: 20px;
