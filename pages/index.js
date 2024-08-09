@@ -82,7 +82,7 @@ export default function Home() {
       <main id={styles.main}>
       <section id={styles.welcomeSection}>
         <h1>Michael Cirkl</h1>
-        <h3>Front-End Developer</h3>
+        <h3>Software Engineer</h3>
       </section>
       </main>
     </>
