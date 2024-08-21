@@ -38,12 +38,12 @@ export default function Work() {
 <motion.div id={styles.projects} variants={fadeInRight} >
     <Project title="Fighting game" stack="Canvas API, Animations, OOP" imgsrc="/Assassin.PNG" imgalt="Assassin fighting game" url="https://assassinfighter.netlify.app/" />
     <Project title="Recipe sharing app" stack="CSS, JS, PHP" imgsrc="/recipe.png" imgalt="Recipe sharing app" url="https://receptar.onrender.com/" />  
-    <Project title="Online store" stack="Next.js, Typescript, Redux Toolkit" imgsrc="/Store.PNG" imgalt="E-Store project" url="https://online-store-mickencz.vercel.app/" />
+    <Project title="Window Manager UI" stack="React, TypeScript, Context API" imgsrc="/windowmanager.png" imgalt="window manager project" url="https://windowmanager.netlify.app/"  />
   </motion.div>
   <motion.div id={styles.projects} variants={fadeInRight} >
     <Project title="React To-Do App" stack="React, LocalStorage, ES6" imgsrc="/Todo.PNG" imgalt="Todo App" url="https://todoaplikace.netlify.app/" />
     <Project title="School reminder tracker" stack="Next.js, MongoDB, SSR, Serverless" imgsrc="/Reminder.PNG" imgalt="reminder project" url="https://pripominac.netlify.app/"  />
-    <Project title="Social Media App" stack="Next, MySQL, Authenthication" imgsrc="/Slipper.PNG" imgalt="Social Media app" url="https://slipperapp.vercel.app/" />  
+    <Project title="Online store" stack="Next.js, Typescript, Redux Toolkit" imgsrc="/Store.PNG" imgalt="E-Store project" url="https://online-store-mickencz.vercel.app/" />
   </motion.div>
     </motion.main>
     </>
