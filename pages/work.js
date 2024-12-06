@@ -37,7 +37,7 @@ export default function Work() {
       </h1>
 <motion.div id={styles.projects} variants={fadeInRight} >
     <Project title="Fighting game" stack="Canvas API, Animations, OOP" imgsrc="/Assassin.PNG" imgalt="Assassin fighting game" url="https://assassinfighter.netlify.app/" />
-    <Project title="Recipe sharing app" stack="CSS, JS, PHP" imgsrc="/recipe.png" imgalt="Recipe sharing app" url="https://receptar.onrender.com/" />  
+    <Project title="Recipe sharing app" stack="CSS, JS, PHP" imgsrc="/recipe.png" imgalt="Recipe sharing app" url="https://zwa.toad.cz/~cirklmic/receptarSemestralka/" />  
     <Project title="Window Manager UI" stack="React, TypeScript, Context API" imgsrc="/windowmanager.png" imgalt="window manager project" url="https://windowmanager.netlify.app/"  />
   </motion.div>
   <motion.div id={styles.projects} variants={fadeInRight} >
