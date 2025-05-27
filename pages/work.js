@@ -41,10 +41,11 @@ export default function Work() {
     <Project title="Window Manager UI" stack="React, TypeScript, Context API" imgsrc="/windowmanager.png" imgalt="window manager project" url="https://windowmanager.netlify.app/"  />
   </motion.div>
   <motion.div id={styles.projects} variants={fadeInRight} >
-    <Project title="React To-Do App" stack="React, LocalStorage, ES6" imgsrc="/Todo.PNG" imgalt="Todo App" url="https://todoaplikace.netlify.app/" />
+    <Project title="Farm planting simulator" stack="Browser APIs, SVG " imgsrc="/Farm.PNG" imgalt="Farm planting simulator" url="https://farmplantingsimulator.netlify.app/" />
     <Project title="School reminder tracker" stack="Next.js, MongoDB, SSR, Serverless" imgsrc="/Reminder.PNG" imgalt="reminder project" url="https://pripominac.netlify.app/"  />
     <Project title="Online store" stack="Next.js, Typescript, Redux Toolkit" imgsrc="/Store.PNG" imgalt="E-Store project" url="https://online-store-mickencz.vercel.app/" />
   </motion.div>
+    <div id={styles.note}>Or check out this Java REST API on my <a href="https://github.com/MickenCZ/Gardening-Rental-IS" id={styles.link}>Github</a></div>
     </motion.main>
     </>
   )

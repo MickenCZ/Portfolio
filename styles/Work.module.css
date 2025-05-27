@@ -12,6 +12,22 @@
   margin-bottom: 30px;
 }
 
+#note {
+    color:white;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    padding-bottom: 30px;
+}
+
+#link {
+  color: lightblue;
+  text-decoration: underline;
+}
+
+#link:hover {
+  color: rgb(137, 169, 180);
+}
+
 #projects {
   display: flex;
   justify-content: center;
